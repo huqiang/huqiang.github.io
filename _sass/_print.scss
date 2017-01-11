@@ -1,0 +1,10 @@
+@media only print{
+  .post {
+    &__back {
+      display: none;
+    }
+  }
+  code {
+    word-wrap: break-word;
+  }
+}

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<nav class="post__back">
+  <a href="/">&lt;-- home</a>
+</nav>
+<article class="post">
+  <header class="post__title">
+    <hgroup>
+      <h1>{{ page.title }}</h1>
+      <section class="post__date">
+        <time>{{ page.date | date: '%B %-d, %Y' }}</time>
+      </section>
+    </hgroup>
+  </header>
+  <section class="post__meta">
+    <p>{{ tags_content }}</p>
+  </section>
+  <section class="post__content"?>
+    {{ content }}
+  </section>
+</article>
