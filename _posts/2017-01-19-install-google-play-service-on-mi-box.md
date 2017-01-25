@@ -18,3 +18,7 @@ Recently I found out [YouTube for Kids](https://kids.youtube.com) app. Then I re
 1. Re-install YouTube for TV and YouTube for Kids. 
 
 That's it, have fun!
+
+## Updates:  
+After recent MIUI TV updates, Mi Box is really a Ads Box. It plays too much advertisement that I no longer stand. Plus now it is very difficult to navigate to user installed apps, nor the apps can be put on desktop. So I used `Link2SD` to freeze most of the un-used services; and switched to another Launcher(Dangbei), now it is much clear.  
+![Dangbei Launcher](https://lh3.googleusercontent.com/DEZxJocSyq5XVr0_XvuwNJaurtKLmSr1xeWesHiOREYZI1o-LxQOGxm2vQfcxZ7xJzSqnsvf5Eb6teWaxbHqkER89HTpVEtPk67U6gjvbfifciol1i8QV01FLrW9It-MZET8UQ)
