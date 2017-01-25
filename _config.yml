@@ -21,3 +21,9 @@ sass:
 kramdown:
   input: GFM
   hard_wrap: false
+
+gems:
+  - jekyll-sitemap
+
+google_verification: true
+
