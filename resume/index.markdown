@@ -12,8 +12,8 @@ cover: "/images/huqiang.jpg"
 <img src="/assets/img/huqiang.jpg" title="Profile picture of Qiang Hu" alt="This is Hu Qiang's profile picture in resume'" width="120" style="margin-top:-52px; float:right">  
 
 _Handphone:  +65-86930506_  
-_Email: <me@qiang.hu>_
-<!---->
+_Email: <me@qiang.hu>_  
+
 ## Experiences  
 * April 2015 - Present: **Analyst**, DBS Bank Ltd  
   * Develop new HTML5 UI for legacy pages.
@@ -27,7 +27,6 @@ _Email: <me@qiang.hu>_
 * August 2010 - May 2012: **IT member, Chief Administrator** at  [EusoffWorks](https://www.facebook.com/eusoffworks)  
 * 8th-27th August 2010: Volunteer for the Singapore Youth Olympic Games as NOC (National Olympic Committee) Assistant attached to Australia NOC  
 
-<!---->
 ## Exposures  
 *	Three-year in Software Engineering practice:  
 	* Good knowledge about software life cycle. Pleased to apply Software Engineering principles in all projects. Actively involve in project management.
@@ -43,18 +42,16 @@ _Email: <me@qiang.hu>_
 *	Four-year in website hosting:  
 	* Have decent knowledge about SEO, speed tuning, and social network integration of websites. (My personal website [http://qiang.hu/](http://qiang.hu/) has considerable good benchmarks. It appears at first page of Google with my name as query term.)
 
-<!---->
 ## Education  
 * National University of Singapore 2010 August -- 2014 February  
   * Bachelor of Computing (Computer Science) 2nd Class Upper (Hons)
 
-<!---->
 ## Projects  
 * YunReading: a HTML5 eBook reader at <http://www.yunreading.com>
 	Contribution: designed and implemented the UI with jQuery Mobile.  
 * Eusoff Hall Flag 2011 website at: <http://www.eusoff.nus.edu.sg/ehoc2011/flag>
 * Tabzine: iPad publishing platform <http://www.youtube.com/watch?v=_NkRNILI7mg>
 	Contribution: implemented server backend API with PHP, and MongoDB  
-<!---->
+
 ## Publications  
 * Qiang Hu, Qi Liu, Xiaoli Wang, Anthony K.H. Tung, Shubham Goyal, and Jisong Yang. __DocRicher: An Automatic Annotation System for Text Documents using Social Media__,  SIGMOD, 2015 [PDF](https://www.dropbox.com/s/edj30nfuxd1u5sg/docricher.pdf?dl=0)
