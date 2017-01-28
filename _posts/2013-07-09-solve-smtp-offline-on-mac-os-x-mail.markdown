@@ -6,6 +6,7 @@ comments: true
 categories: Mac
 description: "Solve the problem SMTP server is offline in Mail, Mac OS X"
 keywords: "Mac, Mail, OS X, Mountain Lion, SMTP, Offline"
+redirect_from: /2013/07/solve-smtp-offline-on-mac-os-x-mail.html
 ---
 Recent days, I have problems sending out email in Mail App, on Mac OS X Mountain Lion. Little invistigation shows that the accounts information for SMTP server are messed, wrong accounts are used for different servers.
 The solution is simple and straightforward:  

@@ -1,4 +1,4 @@
-permalink: /:year/:month/:title.html
+permalink: /:title.html
 # in the templates via {{ site.myvariable }}.
 title: Qiang Hu
 email: your-email@domain.com
@@ -24,6 +24,7 @@ kramdown:
 
 gems:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 google_verification: true
 

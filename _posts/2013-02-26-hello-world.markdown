@@ -5,6 +5,7 @@ date: 2013-02-26 00:31
 comments: true
 categories: 
 tags: [octopress, markdown]
+redirect_from: /2013/02/hello-world.html
 ---
 
 Hello erveyone, this is my first post, which is served as my assignment to Markdown.

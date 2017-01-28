@@ -3,6 +3,8 @@ ruby RUBY_VERSION
 
 gem "jekyll", "3.3.1"
 
+gem 'jekyll-redirect-from'
+
 gem 'jekyll-sitemap'
 
 gem 'github-pages', group: :jekyll_plugins

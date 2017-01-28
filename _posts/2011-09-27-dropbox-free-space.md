@@ -2,7 +2,7 @@
 title: To Get 19G Space for Dropbox FREE
 author: nickhuq
 layout: post
-permalink: /2011/09/dropbox-free-space.html
+redirect_from: /2011/09/dropbox-free-space.html
 categories:
   - Computing
 tags:

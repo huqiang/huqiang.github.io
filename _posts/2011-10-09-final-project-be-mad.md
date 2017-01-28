@@ -2,7 +2,7 @@
 title: 'Final Project &#8212; Be MAD'
 author: nickhuq
 layout: post
-permalink: /2011/10/final-project-be-mad.html
+redirect_from: /2011/10/final-project-be-mad.html
 categories:
   - CS3216
 tags:

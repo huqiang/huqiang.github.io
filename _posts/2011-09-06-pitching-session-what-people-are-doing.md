@@ -1,7 +1,7 @@
 ---
 title: 'Pitching Session: What People Are Doing'
 layout: post
-permalink: /2011/09/pitching-session-what-people-are-doing.html
+redirect_from: /2011/09/pitching-session-what-people-are-doing.html
 categories:
   - CS3216
 tags:

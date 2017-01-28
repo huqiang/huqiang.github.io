@@ -2,6 +2,7 @@
 layout: post
 title: "Install Google Play Service and YouTube on Mi Box"
 date: 2017-01-18 20:29:09 +0800
+redirect_from: /2017/01/install-google-play-service-on-mi-box.html
 ---
 Recently I found out [YouTube for Kids](https://kids.youtube.com) app. Then I really wanted to install it on my Xiaomi Mi Box, so I could play for my little daughter. Initially, I thought it would be as easy as to install YouTube TV, which I just downloaded from ApkMirror, and installed on Mi Box. It turned out not that easy, since YouTube for Kids requires Google Play Service. After several trial and errors, I finally managed to make it work.  
 ## Prerequisites:

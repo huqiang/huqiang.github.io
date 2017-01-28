@@ -2,7 +2,7 @@
 title: Yes! I got Qiang.Hu
 author: nickhuq
 layout: post
-permalink: /2013/02/yes-i-got-qiang-hu.html
+redirect_from: /2013/02/yes-i-got-qiang-hu.html
 Hide SexyBookmarks:
   - 0
 Hide OgTags:

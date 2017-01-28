@@ -2,7 +2,7 @@
 title: 'Case Study: GetHelp'
 author: nickhuq
 layout: post
-permalink: /2011/09/case-study-gethelp.html
+redirect_from: /2011/09/case-study-gethelp.html
 categories:
   - CS3216
 tags:

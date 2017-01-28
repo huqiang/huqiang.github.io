@@ -2,7 +2,7 @@
 title: iCloud has been opened for non-developers
 author: nickhuq
 layout: post
-permalink: /2011/10/icloud-is-opened-for-non-developers.html
+redirect_from: /2011/10/icloud-is-opened-for-non-developers.html
 categories:
   - Apple
   - iOS

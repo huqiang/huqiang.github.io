@@ -1,7 +1,7 @@
 ---
 title: what I want to learn from CS3216
 layout: post
-permalink: /2011/08/what-i-want-to-learn-from-cs3216.html
+redirect_from: /2011/08/what-i-want-to-learn-from-cs3216.html
 categories:
   - CS3216
 tags:

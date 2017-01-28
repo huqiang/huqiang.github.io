@@ -2,7 +2,7 @@
 title: A Bug in Google News Search
 author: nickhuq
 layout: post
-permalink: /2011/09/a-bug-in-google-news-search.html
+redirect_from: /2011/09/a-bug-in-google-news-search.html
 categories:
   - Computing
 tags:

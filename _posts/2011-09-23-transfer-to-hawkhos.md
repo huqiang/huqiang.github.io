@@ -2,7 +2,7 @@
 title: Transfer to HawkHost + 50% Discount Coupon
 author: nickhuq
 layout: post
-permalink: /2011/09/transfer-to-hawkhos.html
+redirect_from: /2011/09/transfer-to-hawkhos.html
 categories:
   - webhosting
 tags:

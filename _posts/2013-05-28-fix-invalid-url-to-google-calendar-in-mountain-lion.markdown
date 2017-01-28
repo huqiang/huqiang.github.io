@@ -6,6 +6,7 @@ comments: true
 categories: Mac
 keywords: google calendar, apple, mountain lion, error, invalid url
 description: 'To fix "CalendarAgent: AOSKit ERROR: (-) RAF: Invalid url --" in Mountain Lion'
+redirect_from: /2013/05/fix-invalid-url-to-google-calendar-in-mountain-lion.html
 ---
 
 If you are much annoyed, I believe you are if you landed this page by Googling, by tenths or even hundreds error messages in Console of 

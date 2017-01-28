@@ -2,7 +2,7 @@
 title: Some thoughts about CS3216 final lecture
 author: nickhuq
 layout: post
-permalink: /2011/11/some-thoughts-about-cs3216-final-lecture.html
+redirect_from: /2011/11/some-thoughts-about-cs3216-final-lecture.html
 Hide OgTags:
   - 0
 Hide SexyBookmarks:

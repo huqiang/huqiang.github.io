@@ -2,7 +2,7 @@
 title: Easy Way to Add NUS Timetable to Your Google Calendar
 date: 2011-08-21 09:00
 layout: post
-permalink: /2011/08/easy-way-to-add-nus-timetable-to-your-google-calendar.html
+redirect_from: /2011/08/easy-way-to-add-nus-timetable-to-your-google-calendar.html
 categories:
   - NUS
 tags:

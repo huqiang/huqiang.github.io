@@ -2,7 +2,7 @@
 title: What I have learnt in CS3216
 author: nickhuq
 layout: post
-permalink: /2011/11/what-i-have-learnt-in-cs3216.html
+redirect_from: /2011/11/what-i-have-learnt-in-cs3216.html
 Hide OgTags:
   - 0
 Hide SexyBookmarks:

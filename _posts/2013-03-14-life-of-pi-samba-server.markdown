@@ -6,6 +6,7 @@ comments: true
 categories: Linux
 tags: [ArchLinux, Samba, exFat]
 keywords: samba, linux, exfat, pi
+redirect_from: /2013/03/life-of-pi-samba-server.html
 ---
 
 ### Update: 

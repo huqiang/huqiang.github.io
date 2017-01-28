@@ -1,7 +1,7 @@
 ---
 title: Principles of Software Engineering
 layout: post
-permalink: /2011/08/principles-of-software-engineering.html
+redirect_from: /2011/08/principles-of-software-engineering.html
 categories:
   - CS3216
 ---

@@ -2,7 +2,7 @@
 title: A Day of Projects
 author: nickhuq
 layout: post
-permalink: /2011/09/a-day-of-projects.html
+redirect_from: /2011/09/a-day-of-projects.html
 categories:
   - CS3216
 ---

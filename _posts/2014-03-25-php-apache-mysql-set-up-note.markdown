@@ -7,6 +7,7 @@ categories: server
 description: "my notes to setup local development environment"
 keywords: "PHP, Apache, setup"
 cover: 
+redirect_from: /2014/03/php-apache-mysql-set-up-note.html
 ---
 
 - Apache is pre-installed in Mac OS X, and it can be started by running `sudo apachectl start` in terminal. After this, **It works!** is shown when visiting `localhost` in browser. Create a `Sites` folder in your home folder, then this folder is accessible through `localhost/~yourusername`. 

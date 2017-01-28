@@ -2,7 +2,7 @@
 title: Make Free Calls on iOS
 author: nickhuq
 layout: post
-permalink: /2012/03/make-free-calls-on-ios.html
+redirect_from: /2012/03/make-free-calls-on-ios.html
 Hide SexyBookmarks:
   - 0
 Hide OgTags:

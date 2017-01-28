@@ -2,7 +2,7 @@
 title: 'Review of Assignment 2 &#038; others'
 author: nickhuq
 layout: post
-permalink: /2011/09/review-of-assignment-2-others.html
+redirect_from: /2011/09/review-of-assignment-2-others.html
 categories:
   - CS3216
 ---

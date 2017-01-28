@@ -2,7 +2,7 @@
 title: Provisioning for a Million Eyeballs
 author: nickhuq
 layout: post
-permalink: /2011/10/provisioning-for-a-million-eyeballs.html
+redirect_from: /2011/10/provisioning-for-a-million-eyeballs.html
 geo_latitude:
   - 1.294311
 geo_longitude:

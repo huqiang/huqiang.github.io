@@ -2,7 +2,7 @@
 title: Commencement Address by Steve Jobs
 author: nickhuq
 layout: post
-permalink: /2011/10/commencement-address-by-steve-jobs.html
+redirect_from: /2011/10/commencement-address-by-steve-jobs.html
 categories:
   - Apple
   - iOS

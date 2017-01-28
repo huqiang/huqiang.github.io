@@ -1,7 +1,7 @@
 ---
 title: Make Tired Lion Run Fast
 layout: post
-permalink: /2011/08/make-tired-lion-run-fast.html
+redirect_from: /2011/08/make-tired-lion-run-fast.html
 categories:
   - Apple
   - Mac OS X

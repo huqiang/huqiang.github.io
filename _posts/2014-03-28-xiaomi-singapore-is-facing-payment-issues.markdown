@@ -7,6 +7,7 @@ categories: "EComerce"
 description: "Xiaomi Singapore is facing payment issues with Paypal after hot sell at 27 March 1200pm."
 keywords: "Xiaomi Singapore, Redmi, Paypal "
 cover: "https://lh5.googleusercontent.com/-K29I6ZPBl1U/UzTYXwwVCrI/AAAAAAAABkE/SKDas003qWs/s600/Readmi%2520Hot%2520Sell.jpg" 
+redirect_from: /2014/03/xiaomi-singapore-is-facing-payment-issues.html
 ---
 ![RedMi](https://lh5.googleusercontent.com/-K29I6ZPBl1U/UzTYXwwVCrI/AAAAAAAABkE/SKDas003qWs/s640/Readmi%2520Hot%2520Sell.jpg)  
 At 1200pm Singapore time, March 27 2014, Xiaomi started a new round sell of its Redmi Phone. According to its statement, 5000 sets were sold out in 4 min 42 sec. Very soon after paying via PayPal, happy customers found xiaomi is still waiting for payment on their website.

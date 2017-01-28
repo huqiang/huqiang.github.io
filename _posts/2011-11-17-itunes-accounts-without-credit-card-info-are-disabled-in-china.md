@@ -2,7 +2,7 @@
 title: iTunes accounts without credit card info are disabled in China
 author: nickhuq
 layout: post
-permalink: /2011/11/itunes-accounts-without-credit-card-info-are-disabled-in-china.html
+redirect_from: /2011/11/itunes-accounts-without-credit-card-info-are-disabled-in-china.html
 Hide SexyBookmarks:
   - 0
 Hide OgTags:

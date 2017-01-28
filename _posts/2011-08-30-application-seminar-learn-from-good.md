@@ -1,7 +1,7 @@
 ---
 title: 'Application Seminar: Learn From Good'
 layout: post
-permalink: /2011/08/application-seminar-learn-from-good.html
+redirect_from: /2011/08/application-seminar-learn-from-good.html
 categories:
   - CS3216
 tags:

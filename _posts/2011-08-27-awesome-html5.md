@@ -1,7 +1,7 @@
 ---
 title: Awesome HTML5
 layout: post
-permalink: /2011/08/awesome-html5.html
+redirect_from: /2011/08/awesome-html5.html
 categories:
   - Computing
   - CS3216

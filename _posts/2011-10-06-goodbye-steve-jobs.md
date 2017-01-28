@@ -2,7 +2,7 @@
 title: Goodbye Steve Jobs
 author: nickhuq
 layout: post
-permalink: /2011/10/goodbye-steve-jobs.html
+redirect_from: /2011/10/goodbye-steve-jobs.html
 categories:
   - MISC
 ---

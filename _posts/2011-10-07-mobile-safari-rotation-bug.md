@@ -2,7 +2,7 @@
 title: Mobile Safari Rotation Bug
 author: nickhuq
 layout: post
-permalink: /2011/10/mobile-safari-rotation-bug.html
+redirect_from: /2011/10/mobile-safari-rotation-bug.html
 categories:
   - Apple
   - CS3216

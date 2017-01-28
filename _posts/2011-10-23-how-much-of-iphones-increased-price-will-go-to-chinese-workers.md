@@ -2,7 +2,7 @@
 title: 'How much of iPhone&#8217;s increased price will go to Chinese workers?'
 author: nickhuq
 layout: post
-permalink: /2011/10/how-much-of-iphones-increased-price-will-go-to-chinese-workers.html
+redirect_from: /2011/10/how-much-of-iphones-increased-price-will-go-to-chinese-workers.html
 Hide SexyBookmarks:
   - 0
 Hide OgTags:
