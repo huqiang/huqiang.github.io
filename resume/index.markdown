@@ -15,9 +15,9 @@ _Handphone:  +65-86930506_
 _Email: <me@qiang.hu>_  
 
 ## Experiences  
-* April 2015 - Present: **Analyst**, DBS Bank Ltd  
+* April 2015 - Present: **Associate**, DBS Bank Ltd  
   * Develop new HTML5 UI for legacy pages.
-  * Design and implement Micro Services for the monolithic system: including service management, Single Sign On(SSO).  
+  * Design and implement MicroServices for the monolithic system: including service management, Single Sign On(SSO).  
 * March 2014 - April 2015: **Research Engineer** at IDMI, NUS  
   * Worked on [ReadPeer](http://readpeer.com): API, and web UI development.  
 * 7 January 2013 - 28 June 2013: **Intern** at UBS  
