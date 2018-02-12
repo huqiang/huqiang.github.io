@@ -23,6 +23,13 @@ _Email: <me@qiang.hu>_
 * March 2014 - April 2015: **Research Engineer** at IDMI, NUS  
   * Worked on [ReadPeer](http://readpeer.com): Drupal backed API development, and web UI development.  
 
+## Education  
+* National University of Singapore 2010 August -- 2014 February  
+  * Bachelor of Computing (Computer Science) 2nd Class Upper (Hons)
+
+## Certification
+* [AWS Certified Solutions Architect - Associate (2017 October)](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-10-23&ci=AWS00330872)  
+
 ## Exposures  
 * 7 January 2013 - 28 June 2013: **Intern** at UBS  
 	* Developed HP QuickTest Professional(QTP) testing library for a new product.
@@ -32,13 +39,6 @@ _Email: <me@qiang.hu>_
 * 8th-27th August 2010: Volunteer for the Singapore Youth Olympic Games as NOC (National Olympic Committee) Assistant attached to Australia NOC  
 *	Seven-year in Software Engineering practices:  
 	* Good knowledge about software life cycle. Pleased to apply Software Engineering principles in all projects. Actively involve in project management.
-
-## Education  
-* National University of Singapore 2010 August -- 2014 February  
-  * Bachelor of Computing (Computer Science) 2nd Class Upper (Hons)
-
-## Certification
-* [AWS Certified Solutions Architect - Associate (2017 October)](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-10-23&ci=AWS00330872)
 
 ## Projects  
 * YunReading: a HTML5 eBook reader at <http://www.yunreading.com>
