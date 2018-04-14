@@ -1,37 +1,37 @@
 ---
 layout: about
-title: "Resume"
-date: 2016-09-13 21:11
+title: "简历"
+date: 2018-04-13 21:11
 comments: false
 sharing: true
 footer: true
 cover: "/images/huqiang.jpg"
 ---
 
-## HU Qiang
+## 胡 强
 <img src="/assets/img/huqiang.jpg" title="Profile picture of Qiang Hu" alt="This is Hu Qiang's profile picture in resume'" width="120" style="margin-top:-52px; float:right">  
 
-_Handphone:  +65-86930506_  
-_Email: <me@qiang.hu>_  
+_电话:  +65-86930506_  
+_邮箱: <me@qiang.hu>_  
 
-## Experiences  
-* April 2015 - Present: **Associate**, DBS Bank Ltd  
-  * In charge of Java 6 to Java 8, Weblogic to Embedded Tomcat migrations; and IBM Cloud Object Storage adaptation and integration.  
-  * Experiencing Full Software Development Life Cycle: requirement gathering, effort estimation, development & testing, and production deployment.  
-  * Designing and implemented MicroService: Single Sign On service, backend service API interaction with Spring Boot and various Oracle/Redis/Mongo/MariaDB persistences, and unified UI integrations with RequireJS/Angular(2)/Vue2.  
-  * Designing and implementing Feature Manager to manage the Microservices: inter service communications, feature toggling and request logging.  
-  * Administrating a RedHat Dev server, setup and maintain GitLab and Mattermost for collaborations among developers and users.  
-* April 2014 - April 2015: **Research Engineer** at IDMI, NUS  
-  * Worked on [ReadPeer](http://readpeer.com): Backend and Frontend development and maintenance, with [SIGMOD publication](docricher.pdf).  
+## 经验  
+* 2015年4月 - 现在: **业务主任**, 星展银行  
+  * 主导Java 6 到 Java 8 升级, 以及网站服务器由Weblogic到嵌入式Tomcat的迁移.  
+  * 全栈程序开发: 用户需求, 方案设计, 资源报表, 开发测试, 部署上线.  
+  * 设计开发微服务框架: 单一登录服务; 后台API 服务 基于Spring Boot和多种数据库: Oracle/Redis/Mongo/MariaDB; 前段用户界面开发整合, 采用RequireJS/Angular(2)/Vue2.  
+  * 设计开发了FeatureManager来管理微服务: 微服务间通讯, 线上功能版本切换, 以及统一日志记录.  
+  * 管理RedHat开发服务器, 部署维护GitLab和Mattermost用于代码管理和团队交流; 主导代码管理服务由CSV到Git的迁移和开发流程.  
+* 2014年4月 - 2015年4月: **研究工程师** 新加坡国立大学  
+  * Worked on [ReadPeer](http://readpeer.com): 后端API开发维护和前端UI开发, 在SGMOD 2015 发布[论文](docricher.pdf)  
 
-## Education  
-* National University of Singapore 2010 August -- 2014 February  
-  * Bachelor of Computing (Computer Science) 2nd Class Upper (Hons)
+## 教育  
+* 新加坡国立大学, 计算机学院, 软件工程专业 2010年8月 -- 2014年2月:  
+  * 二等上荣誉学位: Bachelor of Computing (Computer Science) 2nd Class Upper (Hons)  
 
-## Certification
-* [AWS Certified Solutions Architect - Associate (2017 October)](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-10-23&ci=AWS00330872)  
+## 证书
+* AWS 架构师: [AWS Certified Solutions Architect - Associate (2017 October)](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-10-23&ci=AWS00330872)  
 
-## Exposures  
+## 其他经历  
 * 7 January 2013 - 28 June 2013: **Intern** at UBS  
 	* Developed HP QuickTest Professional(QTP) testing library for a new product.
 * August 2012 - November 2013: **Undergraduate Student Researcher** IDMI, NUS   
@@ -41,12 +41,12 @@ _Email: <me@qiang.hu>_
 *	Seven-year in Software Engineering practices:  
 	* Good knowledge about software life cycle. Pleased to apply Software Engineering principles in all projects. Actively involve in project management.
 
-## Projects  
+## 项目  
 * YunReading: a HTML5 eBook reader at <http://www.yunreading.com>
 	Contribution: designed and implemented the UI with jQuery Mobile.  
 * Eusoff Hall Flag 2011 website at: <http://www.eusoff.nus.edu.sg/ehoc2011/flag>
 * Tabzine: iPad publishing platform <http://www.youtube.com/watch?v=_NkRNILI7mg>
 	Contribution: implemented server backend API with PHP, and MongoDB  
 
-## Publications  
+## 论文  
 * Qiang Hu, Qi Liu, Xiaoli Wang, Anthony K.H. Tung, Shubham Goyal, and Jisong Yang. __DocRicher: An Automatic Annotation System for Text Documents using Social Media__,  SIGMOD, 2015 [PDF](docricher.pdf)
