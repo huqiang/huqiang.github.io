@@ -29,7 +29,8 @@ _Email: <me@qiang.hu>_
   * Bachelor of Computing (Computer Science) 2nd Class Upper (Hons)
 
 ## Certification
-* [AWS Certified Solutions Architect - Associate (2017 October)](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-10-23&ci=AWS00330872)  
+* [AWS Certified Solutions Architect - Associate (SAA)](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-10-23&ci=AWS00330872)  
+* [AWS Certified Developer - Associate (DVA)](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2019-02-26&ci=AWS00330872)
 
 ## Exposures  
 * 7 January 2013 - 28 June 2013: **Intern** at UBS  
