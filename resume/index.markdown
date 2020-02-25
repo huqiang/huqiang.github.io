@@ -11,7 +11,7 @@ cover: '/images/huqiang.jpg'
 ## HU Qiang
 
 <img src="/assets/img/huqiang.jpg" title="Profile picture of Qiang Hu" alt="This is Hu Qiang's profile picture in resume'" width="120" style="margin-top:-52px; float:right">
-_Residency Status: Singapore Citizen_
+_Residency Status: Singapore Citizen_  
 _Handphone: +65-86930506_  
 _Email: <mailto:me@qiang.hu>_
 
