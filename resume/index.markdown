@@ -20,14 +20,14 @@ _Email: <mailto:me@qiang.hu>_
 
 - Front-end
 
-  - Proficient in JavaScript(ES6), VueJS; experienced: AngularJS, jQuery Modules, BackboneJS, RequireJS dependencies management;
+  - Proficient in JavaScript(ES6), VueJS; experienced: React, AngularJS, jQuery Modules, BackboneJS, RequireJS dependencies management;
   - Proficient in NPM, Webpack, Unit testing with Jest, E2E testing with Protractor/Nightwatch;
 
 - Back-end
 
-  - Proficient in Java(Struts, Spring Boot); experienced with NodeJS(Express), Python(Flask);
+  - Proficient in Java(Struts, Spring Boot), MicroServices with APIs/RPC/Messaging Queue, experienced with NodeJS(Express), Python(Flask);
   - JWT Token based Single Sign On(SSO) and Authentication;
-  - Database: Oracle, MariaDB, MongoDB, Redis;
+  - Database: Big Data, Oracle, MariaDB, MongoDB, Redis;
   - Linux system administration and shell scripting;
 
 - MISC
@@ -37,7 +37,12 @@ _Email: <mailto:me@qiang.hu>_
 
 ## Experiences
 
-- April 2015 - Present: Application Developer, Associate, DBS Bank Ltd
+- May 2020 - Present: Senior Software Engineer, Alibaba Inc
+  - Full stack Marketing solution for Daraz.com, in charge of tech design and implementation, project management.
+    - Internal tracking and attribution; 
+    - Rolled out [affiliate](https://www.phoneworld.com.pk/daraz-launches-affiliate-program/) and brand marketing platform;
+    - Tech stack: full stack with React component, API Gateway, Docker and Springboot based Microservices with RPC and MQ communication, HIVE based big data processing of result reporting and settlements;
+- April 2015 - April 2020: Application Developer, Associate, DBS Bank Ltd
   - Self service Dashboard for traders:
     - Design and full stack develop configurable tasks/views to replace existing manual report generation and email workflow.
   - Oracle to MariaDB, Hadoop migration:
