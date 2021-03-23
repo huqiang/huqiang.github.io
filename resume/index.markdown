@@ -20,12 +20,12 @@ _Email: <mailto:me@qiang.hu>_
 
 - Front-end
 
-  - JavaScript(ES6), VueJS, AngularJS, jQuery Modules, BackboneJS, RequireJS dependencies management;
-  - NPM, Webpack, Unit testing with Jest, E2E testing with Protractor/Nightwatch;
+  - Proficient in JavaScript(ES6), VueJS; experienced: AngularJS, jQuery Modules, BackboneJS, RequireJS dependencies management;
+  - Proficient in NPM, Webpack, Unit testing with Jest, E2E testing with Protractor/Nightwatch;
 
 - Back-end
 
-  - Java(Struts, Spring Boot), NodeJS(Express), Python(Flask);
+  - Proficient in Java(Struts, Spring Boot); experienced with NodeJS(Express), Python(Flask);
   - JWT Token based Single Sign On(SSO) and Authentication;
   - Database: Oracle, MariaDB, MongoDB, Redis;
   - Linux system administration and shell scripting;
