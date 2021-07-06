@@ -21,7 +21,7 @@ _Email: <mailto:me@qiang.hu>_
 - Front-end
 
   - Proficient in JavaScript(ES6), VueJS; experienced: React, AngularJS, jQuery Modules, BackboneJS, RequireJS dependencies management;
-  - Proficient in NPM, Webpack, Unit testing with Jest, E2E testing with Protractor/Nightwatch;
+  - Proficient in NPM, Webpack, Unit testing with Jest, E2E testing with Protractor/Jest;
 
 - Back-end
 
@@ -41,7 +41,9 @@ _Email: <mailto:me@qiang.hu>_
   - Full stack Marketing solution for Daraz.com, in charge of tech design and implementation, project management.
     - Internal tracking and attribution; 
     - Rolled out [affiliate](https://www.phoneworld.com.pk/daraz-launches-affiliate-program/) and brand marketing platform;
-    - Tech stack: full stack with React component, API Gateway, Docker and Springboot based Microservices with RPC and MQ communication, HIVE based big data processing of result reporting and settlements;
+    - Tech stack: full stack with React component, API Gateway, Docker and Springboot based Micro Services with RPC and MQ communications, HIVE based big data processing for result reporting and settlements;
+  - Backend development for live streaming solution: multi-layer Micro Service with RPC communication; Cache and MQ are used to decouple and increase performance.
+    - Project management: assisting with PRD, collaborate with Frontend, Mobile and QA teams;
 - April 2015 - April 2020: Application Developer, Associate, DBS Bank Ltd
   - Self service Dashboard for traders:
     - Design and full stack develop configurable tasks/views to replace existing manual report generation and email workflow.
@@ -61,7 +63,7 @@ _Email: <mailto:me@qiang.hu>_
   - Designing and implemented MicroService:
     - Developed starter project so new projects can be easily built on;
     - Implemented Single Sign On service using JWT, and common plug-and-play library to make use of the SSO.
-    - Experimented and developed Spring Boot backend API service with various Oracle/Redis/Mongo/MariaDB persistences; and unified UI integrations with jQuery/RequireJS/Angular(2)/Vue.
+    - Experimented and developed Spring Boot backend API service with various Oracle/Redis/Mongo/MariaDB persistence; and unified UI integrations with jQuery/RequireJS/Angular(2)/Vue.
   - Designing and implementing Feature Manager to manage the Microservices: inter service communications, feature toggling and request logging.
   - Administrating a RedHat Dev server, setup and maintain GitLab and Mattermost for collaborations among developers and user, and Jenkins for CI/CD.
 - April 2014 - April 2015: **Research Engineer** at IDMI, NUS
