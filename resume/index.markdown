@@ -37,7 +37,11 @@ _Email: <mailto:me@qiang.hu>_
 
 ## Experiences
 
-- May 2020 - Present: Senior Software Engineer, Alibaba Inc
+- Aug 2021 - Present: Senior Full-stack Engineer, Binance
+  - Led ML based Customer Support Chatbot configuration system: 
+    - Designed and implemented Micro Service architecture;  
+    - Enabled multi-tenancy capability to support SaaS platform;  
+- May 2020 - Aug 2021: Senior Software Engineer, Alibaba Inc
   - Full stack Marketing solution for Daraz.com, in charge of tech design and implementation, project management.
     - Internal tracking and attribution; 
     - Rolled out [affiliate](https://www.phoneworld.com.pk/daraz-launches-affiliate-program/) and brand marketing platform;
