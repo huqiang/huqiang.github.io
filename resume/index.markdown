@@ -10,7 +10,6 @@ cover: '/images/huqiang.jpg'
 
 ## HU Qiang
 
-**A lazy programmer**
 
 _Residency Status: Singapore Citizen_  
 _Mobile: +65-86930506_  
