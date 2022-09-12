@@ -15,31 +15,16 @@ _Residency Status: Singapore Citizen_
 _Mobile: +65-86930506_  
 _Email: <mailto:me@qiang.hu>_
 
-## Full stack engineering technical skills
-
-- Front-end
-
-  - Proficient in JavaScript(ES6), VueJS; experienced: React, AngularJS, jQuery Modules, BackboneJS, RequireJS dependencies management;
-  - Proficient in NPM, Webpack, Unit testing with Jest, E2E testing with Protractor/Jest;
-
-- Back-end
-
-  - Proficient in Java(Struts, Spring Boot), MicroServices with APIs/RPC/Messaging Queue, experienced with NodeJS(Express), Python(Flask);
-  - JWT Token based Single Sign On(SSO) and Authentication;
-  - Database: Big Data, Oracle, MariaDB, MongoDB, Redis;
-  - Linux system administration and shell scripting;
-
-- MISC
-
-  - CI/CD: GitLab/Bitbucket, Jenkins build/testing/scanning with SonarQube;
-  - Application Security development on Fortify and Secure Core Worrier;
 
 ## Experiences
 
-- Aug 2021 - Present: Senior Full-stack Engineer, Binance
-  - Led ML based Customer Support Chatbot configuration system: 
+- Apr 2022 - Present: Senior Back-end Engineer, Phemex  
+  - Solution design and implementation on Copy Trade:  core trading system & APIs.  
+  - Earn Crypto enhancements.
+- Aug 2021 - Apr 2022: Senior Full-stack Engineer, Binance  
+  - Led ML based Customer Support Chatbot configuration system:  
     - Designed and implemented Micro Service architecture;  
-    - Enabled multi-tenancy capability to support SaaS platform;  
+    - Enabled multi-tenancy capability to support SaaS platform;   
 - May 2020 - Aug 2021: Senior Software Engineer, Alibaba Inc
   - Full stack Marketing solution for Daraz.com, in charge of tech design and implementation, project management.
     - Internal tracking and attribution; 
