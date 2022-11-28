@@ -19,8 +19,8 @@ _Email: <mailto:me@qiang.hu>_
 ## Experiences
 
 - Apr 2022 - Present: Senior Back-end Engineer, Phemex  
-  - Solution design and implementation on Copy Trade:  core trading system & APIs.  
-  - Earn Crypto enhancements.
+  - Led solution design and implementation on [Copy Trade](https://phemex.com/copy-trading/list):  core trading system & APIs.  
+  - [Earn Crypto](https://phemex.com/earn-crypto) enhancements.
 - Aug 2021 - Apr 2022: Senior Full-stack Engineer, Binance  
   - Led ML based Customer Support Chatbot configuration system:  
     - Designed and implemented Micro Service architecture;  
