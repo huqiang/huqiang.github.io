@@ -15,19 +15,21 @@ _Residency Status: Singapore Citizen_
 _Mobile: +65-86930506_  
 _Email: <mailto:me@qiang.hu>_
 
+## Proficient architecture and engineering skills
+- Design and implement robust distributed systems;  
+- Manage and deliver business critical projects.
 
 ## Experiences
-
-- Apr 2022 - Present: Senior Back-end Engineer, Phemex  
-  - Led solution design and implementation on [Copy Trade](https://phemex.com/copy-trading/list):  core trading system & APIs.  
-  - [Earn Crypto](https://phemex.com/earn-crypto) enhancements.
-- Aug 2021 - Apr 2022: Senior Full-stack Engineer, Binance  
+- Apr 2022 - Present: Senior Back-end Engineer, Contract Trading BU, [Phemex](https://phemex.com/)  
+  - Led solution design and implementation on [Copy Trade](https://phemex.com/copy-trading/list):  core copy trading system & APIs.  
+  - API enhancements for [Earn Crypto](https://phemex.com/earn-crypto)s.
+- Aug 2021 - Apr 2022: Senior Full-stack Engineer, Big Data Team, Binance  
   - Led ML based Customer Support Chatbot configuration system:  
     - Designed and implemented Micro Service architecture;  
-    - Enabled multi-tenancy capability to support SaaS platform;   
+    - Enabled Chatbot SaaS: with multi-tenancy support to reduce cost and to comply rules and regulations;   
 - May 2020 - Aug 2021: Senior Software Engineer, Alibaba Inc
-  - Full stack Marketing solution for Daraz.com, in charge of tech design and implementation, project management.
-    - Internal tracking and attribution; 
+  - Full stack Marketing solution for Daraz.com, in charge of tech design and implementation, and project management.
+    - Internal tracking and attribution capability to measure marketing performances; 
     - Rolled out [affiliate](https://www.phoneworld.com.pk/daraz-launches-affiliate-program/) and brand marketing platform;
     - Tech stack: full stack with React component, API Gateway, Docker and Springboot based Micro Services with RPC and MQ communications, HIVE based big data processing for result reporting and settlements;
   - Backend development for live streaming solution: multi-layer Micro Service with RPC communication; Cache and MQ are used to decouple and increase performance.
