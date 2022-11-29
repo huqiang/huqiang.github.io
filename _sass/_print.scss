@@ -7,4 +7,9 @@
   code {
     word-wrap: break-word;
   }
+  .about {
+    &__title {
+      font-size: 1.4em;
+    }
+  }
 }

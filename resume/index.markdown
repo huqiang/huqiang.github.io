@@ -8,8 +8,7 @@ footer: true
 cover: '/images/huqiang.jpg'
 ---
 _Residency Status: Singapore Citizen_  
-_Mobile: +65-86930506_  
-_Email: <mailto:me@qiang.hu>_
+_Mobile: +65-86930506      Email: <mailto:me@qiang.hu>_ 
 
 ## Architecture and engineering skills
 - Design and implement robust distributed systems;  
