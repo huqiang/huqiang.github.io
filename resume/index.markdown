@@ -1,21 +1,17 @@
 ---
 layout: about
-title: 'Resume'
+title: 'HU Qiang'
 date: 2016-09-13 21:11
 comments: false
 sharing: true
 footer: true
 cover: '/images/huqiang.jpg'
 ---
-
-## HU Qiang
-
-
 _Residency Status: Singapore Citizen_  
 _Mobile: +65-86930506_  
 _Email: <mailto:me@qiang.hu>_
 
-## Proficient architecture and engineering skills
+## Architecture and engineering skills
 - Design and implement robust distributed systems;  
 - Manage and deliver business critical projects.
 
