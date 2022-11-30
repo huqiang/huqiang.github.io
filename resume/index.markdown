@@ -1,7 +1,7 @@
 ---
 layout: about
 title: 'HU Qiang'
-date: 2016-09-13 21:11
+date: 2022-11-30 11:30
 comments: false
 sharing: true
 footer: true
@@ -10,14 +10,13 @@ cover: '/images/huqiang.jpg'
 _Residency Status: Singapore Citizen_  
 _Mobile: +65-86930506      Email: <mailto:me@qiang.hu>_ 
 
-## Architecture and engineering skills
-- Design and implement robust distributed Micro Services;  
-- Manage and deliver business critical projects;  
-- Data Engineering and application;
-- Full stack development with main focus on backend solution using Java stacks, and front knowledge of Vue, React.  
+## Full stack architecture and engineering skills
+- Design and implement robust distributed Micro Services: Spring Boot, Eureka/Nacos/Apollo, OpenFeign/Dubbo/gRPC;  
+- Manage and deliver business critical projects: Requirement finalizing, solution design, support ;  
+- Data Engineering and application: big data pipeline design, data job development, results outgets to ObjectStore/Online DB; Hive/presto.    
 
 ## Experiences
-- Apr 2022 - Present: Senior Back-end Engineer, Contract Trading BU, [Phemex](https://phemex.com/)  
+- Apr 2022 - Present: Senior Back-end Engineer, Contract Trading BU, [Phemex Exchange](https://phemex.com/)  
   - Led solution design and implementation on [Copy Trade](https://phemex.com/copy-trading/list):  core copy trading system & APIs.  
   - API enhancements for [Earn Crypto](https://phemex.com/earn-crypto).
 - Aug 2021 - Apr 2022: Senior Full-stack Engineer, Big Data Team, Binance  
