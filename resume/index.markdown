@@ -16,7 +16,7 @@ _Mobile: +65-86930506      Email: <mailto:me@qiang.hu>_
 - Data Engineering and application: big data pipeline design, data job development, results outgets to ObjectStore/Online DB; Hive/presto.    
 
 ## Experiences
-- Apr 2022 - Present: Senior Back-end Engineer, Contract Trading BU, [Phemex Exchange](https://phemex.com/)  
+- Apr 2022 - Nov 2022: Senior Back-end Engineer, Contract Trading BU, [Phemex Exchange](https://phemex.com/)  
   - Led solution design and implementation on [Copy Trade](https://phemex.com/copy-trading/list):  core copy trading system & APIs.  
   - API enhancements for [Earn Crypto](https://phemex.com/earn-crypto).
 - Aug 2021 - Apr 2022: Senior Full-stack Engineer, Big Data Team, Binance  
