@@ -11,8 +11,10 @@ github_username:  huqiang
 # Build settings
 markdown: kramdown
 exclude:
+  - .bundle
   - Gemfile
   - Gemfile.lock
+  - vendor
 # Sass
 sass:
   style: :compressed

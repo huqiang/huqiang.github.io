@@ -14,6 +14,8 @@ jobs:
   jekyll-build:
     name: Jekyll build
     runs-on: ubuntu-latest
+    env:
+      BUNDLE_PATH: ${{ runner.temp }}/bundle
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
