@@ -12,4 +12,5 @@ Useful docs:
 
 - [Publishing checklist](docs/PUBLISHING.md)
 - [Site operations](docs/OPERATIONS.md)
+- [Writing guide](docs/WRITING.md)
 - [Drafts](./_drafts/)

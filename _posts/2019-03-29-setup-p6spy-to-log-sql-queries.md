@@ -2,21 +2,29 @@
 layout: post
 title: "Setup p6spy to log SQL queries"
 date: 2019-03-29 09:29:09 +0800
+redirect_from:
+  - /manual-feign-client-init.html
 ---
-THe notes to setup [p6spy](https://github.com/p6spy/p6spy) to intercept and log queries without code changes.  
-1. Add p6spy library:  
-```xml
-    <dependency>
-        <groupId>p6spy</groupId>
-        <artifactId>p6spy</artifactId>
-        <version>3.8.1</version>
-    </dependency>
-```
-1. Update the driver and DB link to:  
-  * `com.p6spy.engine.spy.P6SpyDriver`  
-  * `jdbc:p6spy:mysql:DB_URL`  
-1. Add `spy.properties`:  
-```cnf
+These are the notes to set up [p6spy](https://github.com/p6spy/p6spy) to intercept and log SQL queries without code changes.
+
+1. Add the p6spy dependency:
+
+   ```xml
+   <dependency>
+       <groupId>p6spy</groupId>
+       <artifactId>p6spy</artifactId>
+       <version>3.8.1</version>
+   </dependency>
+   ```
+
+2. Update the driver and database URL:
+
+   - `com.p6spy.engine.spy.P6SpyDriver`
+   - `jdbc:p6spy:mysql:DB_URL`
+
+3. Add `spy.properties`:
+
+```properties
 driverlist=com.mysql.jdbc.Driver
 logMessageFormat=com.p6spy.engine.spy.appender.SingleLineFormat
 dateformat=yyyy-MM-dd HH:mm:ss.SSS
