@@ -11,7 +11,7 @@ cover: "/images/huqiang.jpg"
 ## 胡 强
 <img src="/assets/img/huqiang.jpg" title="Profile picture of Qiang Hu" alt="This is Hu Qiang's profile picture in resume'" width="120" style="margin-top:-52px; float:right">
 
-_新加坡 · 邮箱: <me@qiang.hu> · GitHub: [huqiang](https://github.com/huqiang)_
+新加坡 · 邮箱: <me@qiang.hu> · GitHub: [huqiang](https://github.com/huqiang)
 
 ## 概览
 

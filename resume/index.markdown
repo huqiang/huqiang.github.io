@@ -7,9 +7,9 @@ sharing: true
 footer: true
 cover: '/images/huqiang.jpg'
 ---
-_Residency Status: Singapore Citizen_
+Residency Status: Singapore Citizen
 
-_Singapore | Email: <mailto:me@qiang.hu> | GitHub: [huqiang](https://github.com/huqiang)_
+Singapore | Email: <mailto:me@qiang.hu> | GitHub: [huqiang](https://github.com/huqiang)
 
 ## Overview
 
