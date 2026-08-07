@@ -1,32 +1,38 @@
 ---
 layout: about
 title: 'HU Qiang'
-date: 2022-11-30 11:30
+date: 2026-08-07 10:30
 comments: false
 sharing: true
 footer: true
 cover: '/images/huqiang.jpg'
 ---
-_Residency Status: Singapore Citizen_  
-_Mobile: +65-86930506      Email: <mailto:me@qiang.hu>_ 
+_Residency Status: Singapore Citizen_
+
+_Singapore | Email: <mailto:me@qiang.hu> | GitHub: [huqiang](https://github.com/huqiang)_
 
 ## Overview
 
-Experienced Senior Engineer with expertise in designing and implementing complex software systems. Proficient in the following technologies:
+Engineering leader and backend engineer focused on instant messaging, notification systems, and high-throughput distributed services. I work across system design, execution, reliability, and team delivery, with a bias toward simple systems that are observable and maintainable.
 
-- Java, Spring Boot, Micro Services
-- React, Vue.js, jQuery, Angular
-- Oracle, Redis, Kafka, MongoDB, MariaDB
-- Docker, Jenkins, GitLab, Mattermost
-- Machine Learning, Chatbots, Instant Messaging
+Core areas:
+
+- Java, Spring Boot, WebFlux, gRPC, MyBatis Plus
+- Instant Messaging, notifications, backend platforms
+- Kafka, Redis, Elasticsearch, Couchbase, Lindorm
+- Multi-region deployment, high availability, performance tuning
+- Observability, CI/CD, Docker, Linux, AWS, Alibaba Cloud
 
 ## Experience
 
-### Senior Engineer, [OKX](https://okx.com/)
+### Engineering Director / Senior Engineer, [OKX](https://okx.com/)
 
 Jan 2023 - Present
 
-- Lead the design of the in-house Instant Messaging system.
+- Lead backend design and delivery for in-house Instant Messaging systems.
+- Work on high-concurrency message delivery, notification workflows, reliability, and operational visibility.
+- Coordinate engineering execution across backend services, product requirements, release planning, and production follow-up.
+- Balance architecture choices against latency, failure recovery, operational complexity, and long-term maintenance cost.
 
 ### Senior Back-end Engineer, Contract Trading BU, [Phemex Exchange](https://phemex.com/)
 
@@ -48,7 +54,7 @@ May 2020 - Aug 2021
 
 - Designed and implemented a full-stack marketing solution for Daraz.com.
 - Rolled out an affiliate and brand marketing platform, with internal tracking and attribution capability.
-- Developed a backend for a live streaming solution, with multi-layer Micro Services, RPC communication, and cache and MQ for decoupling and performance.
+- Developed a backend for a live streaming solution, with layered microservices, RPC communication, cache, and message queues for decoupling and performance.
 - Managed PRD, collaborated with Frontend, Mobile, and QA teams.
 
 ### Application Developer, Associate, DBS Bank Ltd
@@ -56,11 +62,11 @@ May 2020 - Aug 2021
 April 2015 - April 2020
 
 - Designed and developed a self-service dashboard for traders, with configurable tasks/views to replace manual report generation and email workflow.
-- Migrated from Oracle to MariaDB and Hadoop, refactored code, and setup Presto for cross-data source query and validation.
-- Migrated from Weblogic to Embedded Tomcat, upgraded code base, adapted IBM Object Storage, and enabled BTM as transaction manager.
+- Migrated from Oracle to MariaDB and Hadoop, refactored code, and set up Presto for cross-data source query and validation.
+- Migrated from WebLogic to embedded Tomcat, upgraded the codebase, adapted IBM Object Storage, and enabled BTM as transaction manager.
 - Developed a risk computation module with Spring Boot backend, fully documented APIs, and Vue.js UI.
 - Initiated Application Security initiatives, onboarded SonarQube and Fortify for code quality.
-- Designed and implemented a MicroService, developed a starter project, implemented Single Sign On service using JWT, and built a Feature Manager to manage Micro Services.
+- Designed and implemented a microservice, developed a starter project, implemented Single Sign-On using JWT, and built a Feature Manager to manage service rollout.
 - Managed a RedHat Dev server, administered GitLab and Mattermost, and implemented Jenkins for CI/CD.
 
 ### Research Engineer, IDMI, NUS

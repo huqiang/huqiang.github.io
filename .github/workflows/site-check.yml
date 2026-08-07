@@ -26,5 +26,8 @@ jobs:
           ruby-version: "3.3"
           bundler-cache: true
 
+      - name: Check content format
+        run: ruby scripts/check_content.rb
+
       - name: Build site
         run: bundle exec jekyll build --trace
