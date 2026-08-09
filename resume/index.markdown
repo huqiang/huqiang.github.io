@@ -9,7 +9,9 @@ cover: '/images/huqiang.jpg'
 ---
 _Residency Status: Singapore Citizen_
 
-_Singapore | Email: <mailto:me@qiang.hu> | GitHub: [huqiang](https://github.com/huqiang)_
+Singapore
+Email: me@qiang.hu
+GitHub: [huqiang](https://github.com/huqiang)
 
 ## Overview
 
