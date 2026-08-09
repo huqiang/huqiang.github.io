@@ -28,4 +28,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
-google_verification: true
+google_site_verification:

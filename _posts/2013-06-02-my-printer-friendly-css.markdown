@@ -6,10 +6,10 @@ comments: true
 categories: webhosting
 keywords: CSS, printer-friendly
 description: "This is my print.css which is used when visitors what to print pages."
-cover: "http://lh6.googleusercontent.com/-lCoo_0HpStY/UcJg9O7HVJI/AAAAAAAABXA/HicEQ0DGzuI/s800/css-logo.jpg"
+cover: "https://lh6.googleusercontent.com/-lCoo_0HpStY/UcJg9O7HVJI/AAAAAAAABXA/HicEQ0DGzuI/s800/css-logo.jpg"
 redirect_from: /2013/06/my-printer-friendly-css.html
 ---
-![CSS Logo](http://lh6.googleusercontent.com/-lCoo_0HpStY/UcJg9O7HVJI/AAAAAAAABXA/HicEQ0DGzuI/s800/css-logo.jpg)  
+![CSS Logo](https://lh6.googleusercontent.com/-lCoo_0HpStY/UcJg9O7HVJI/AAAAAAAABXA/HicEQ0DGzuI/s800/css-logo.jpg)  
 I do want my webpages printed out nicely, especially my [Resume](/resume), which should not contain the unnecessary elements, e.g. site title, side bar, comments... According to w3schools.com, [CSS Media Type](http://www.w3schools.com/css/css_mediatypes.asp) can help me achieve the goal by providing different sets of CSS for various outputs.
 Below is the CSS I have written, you can copy and save it if you want. 
 <!--more-->

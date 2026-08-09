@@ -6,10 +6,10 @@ comments: true
 categories: linux
 description: "This is a simple guide to mount linux system backup made using dd."
 keywords: linux, arch linux, raspberry pi, dd, mount, ext4
-cover: "http://lh3.googleusercontent.com/-djwgkFfBKn8/UcJhWb4HAWI/AAAAAAAABXk/ymN8GQccjlk/s800/Linux-OS-images.jpg"
+cover: "https://lh3.googleusercontent.com/-djwgkFfBKn8/UcJhWb4HAWI/AAAAAAAABXk/ymN8GQccjlk/s800/Linux-OS-images.jpg"
 redirect_from: /2013/06/mount-entire-dd-image.html
 ---
-![Linux Logo](http://lh3.googleusercontent.com/-djwgkFfBKn8/UcJhWb4HAWI/AAAAAAAABXk/ymN8GQccjlk/s800/Linux-OS-images.jpg) Yesterday, my Raspberry Pi running Arch Linux was not able to boot with error: `Kernel Panic, not syncing: no init found`. I spent a night on it, but could not find a working solution. The last option is easy: reinstall the system. That is really the last resort, for I do not want to re-setup everything I have done: [samba server](/2013/03/life-of-pi-samba-server.html), Time Machine server, Xunlei Offline Downloader...  
+![Linux Logo](https://lh3.googleusercontent.com/-djwgkFfBKn8/UcJhWb4HAWI/AAAAAAAABXk/ymN8GQccjlk/s800/Linux-OS-images.jpg) Yesterday, my Raspberry Pi running Arch Linux was not able to boot with error: `Kernel Panic, not syncing: no init found`. I spent a night on it, but could not find a working solution. The last option is easy: reinstall the system. That is really the last resort, for I do not want to re-setup everything I have done: [samba server](/2013/03/life-of-pi-samba-server.html), Time Machine server, Xunlei Offline Downloader...  
 ## Unable to mount the SD card
 
 The system does not boot, so I need to find a way to get into the file system to identify what is wrong, or at least backup all the configuration files.
