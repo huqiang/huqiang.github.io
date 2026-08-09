@@ -1,0 +1,25 @@
+services:
+  site:
+    build:
+      context: ..
+      dockerfile: .devcontainer/Dockerfile
+      args:
+        USER_UID: ${UID:-1000}
+        USER_GID: ${GID:-1000}
+    working_dir: /workspace
+    volumes:
+      - ..:/workspace
+      - bundle-cache:/bundle
+    command: >
+      bash -lc "rm -rf /tmp/site
+      && mkdir -p /tmp/site /bundle/vendor /bundle/config /bundle/bin
+      && tar --exclude=.git --exclude=_site --exclude=vendor --exclude=.bundle --exclude=.jekyll-cache -cf - -C /workspace .
+      | tar -xf - -C /tmp/site
+      && chown -R devcontainer:devcontainer /tmp/site /bundle
+      && su devcontainer -c 'cd /tmp/site
+      && bundle install
+      && ruby scripts/check_content.rb
+      && bundle exec jekyll build --trace'"
+
+volumes:
+  bundle-cache:
