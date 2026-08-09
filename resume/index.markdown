@@ -9,7 +9,6 @@ cover: '/images/huqiang.jpg'
 ---
 _Residency Status: Singapore Citizen_
 
-Singapore
 Email: me@qiang.hu
 GitHub: [huqiang](https://github.com/huqiang)
 
@@ -21,7 +20,7 @@ Core areas:
 
 - Java, Spring Boot, WebFlux, gRPC, MyBatis Plus
 - Instant Messaging, notifications, backend platforms
-- Kafka, Redis, Elasticsearch, Couchbase, Lindorm
+- Kafka, Redis, Elasticsearch, HBase, MySQL, DynamoDB, ClickHouse, Hive
 - Multi-region deployment, high availability, performance tuning
 - Observability, CI/CD, Docker, Linux, AWS, Alibaba Cloud
 
