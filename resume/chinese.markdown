@@ -21,7 +21,7 @@ _新加坡 · 邮箱: <me@qiang.hu> · GitHub: [huqiang](https://github.com/huqi
 
 * Java、Spring Boot、WebFlux、gRPC、MyBatis Plus
 * 即时通讯、通知系统、后端平台
-* Kafka、Redis、Elasticsearch、Couchbase、Lindorm
+* Kafka、Redis、Elasticsearch、HBase、MySQL、DynamoDB、ClickHouse、Hive
 * 多地域部署、高可用、性能优化
 * 可观测性、CI/CD、Docker、Linux、AWS、阿里云
 
